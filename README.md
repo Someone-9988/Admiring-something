@@ -1,6 +1,6 @@
 # Admiration Interactive Paper Project
 
-This is an interactive desktop-only web project created as a collaborative effort with a diploma in software engineering student. I was responsible for the frontend design and layout, while my collaborator wrote the JavaScript functionality for free drag-and-drop interaction.
+This is an interactive desktop-only web project created as a collaborative effort with a diploma in computer engineering student. I was responsible for the frontend design and layout, while my collaborator wrote the JavaScript functionality for free drag-and-drop interaction.
 
 ## Project Overview
 The project displays a set of “papers” with handwritten text that users can drag freely across the screen to reveal a meaningful message:
